@@ -3,7 +3,7 @@
 This project is a simple React web application running in a Docker container. It displays:
 
 ```html
-<h1>Codin 1 website</h1>
+<h1>Codin 1</h1>
 ```
 
 ## Here are the instructions on how to get the web application running on localhost:7775 (127.0.0.1:7775)
@@ -25,5 +25,5 @@ This will build the Docker image using the Dockerfile provided.
   http://127.0.0.1:7775
 You should see:
   ```html
-  <h1>Codin 1 website</h1>
+  <h1>Codin 1</h1>
   ```
