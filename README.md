@@ -5,6 +5,7 @@ This project is a simple React web application running in a Docker container. It
 
 ```html
 <h1>Codin 1 website</h1>
+```html
 
 Here are the instructions on how to get the web application running on localhost:7775 (127.0.0.1:7775)
 1.Clone the Repository. If you haven’t already, clone the repository:
