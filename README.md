@@ -1,12 +1,12 @@
 # WEBD-3012 Business System Building and Testing
-## Coding Assignment11: Codin 1 Website
+## chen_zoey_coding_assignment11
 This project is a simple React web application running in a Docker container. It displays:
 
 ```html
 <h1>Codin 1</h1>
 ```
 
-## Here are the instructions on how to get the web application running on localhost:7775 (127.0.0.1:7775)
+## Here are the instructions on how to run the web application on localhost:7775 (127.0.0.1:7775)
 1.Clone the Repository. If you haven’t already, clone the repository:
   ```bash
   git clone https://github.com/zoeyChenCap/RRC.git
